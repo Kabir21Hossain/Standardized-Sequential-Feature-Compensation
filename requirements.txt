@@ -1,0 +1,10 @@
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.4
+scipy>=1.10
+matplotlib>=3.7
+ipykernel>=6.25
+jupyter>=1.0
+xgboost>=2.0        # optional (version 2 notebook)
+catboost>=1.2       # optional (version 2 notebook)
+pytest>=7.0         # for the unit tests
